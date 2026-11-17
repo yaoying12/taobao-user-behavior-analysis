@@ -8,3 +8,5 @@ __pycache__/
 update_excel.py
 sql.sql
 analysis_report.py
+业务目标.xlsx
+数据清洗步骤.py
